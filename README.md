@@ -1,48 +1,53 @@
-# Awesome-AI-For-Life-Sciences
+# Awesome AI For Life Sciences 🧬🔬💊
 
-## Top AI for Life Sciences Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI for Life Sciences Banner" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?ttyle=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-For-Life-Sciences/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-For-Life-Sciences?style=social&color=white" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-For-Life-Sciences/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-For-Life-Sciences?style=social&color=white" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-For-Life-Sciences/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-For-Life-Sciences?style=flat-square" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-For-Life-Sciences/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Top AI for Life Sciences Ecosystem
 
-*Focused on Protein Structure Prediction, Drug Discovery & Scientific Agent Skills*  
+> **A Curated Directory of SaaS Platforms, Foundation Models, and Open-Source GitHub Projects for Computational Biology, Protein Folding, Generative Chemistry, and Autonomous Scientific Agents.**
 
-**Last updated: October 2026**
+**Last updated:** October 2026 🗓️
 
+This repository tracks high-impact **SaaS platforms** and **open-source AI tools** for **AI in the Life Sciences**. These technologies empower biopharma researchers and computational biologists to predict biomolecular structures with atomic precision, design de novo small molecules and therapeutic proteins, process multi-omic and single-cell datasets, and build autonomous scientific research agents—accelerating preclinical discovery from decades to weeks. 🚀
 
+Key commercial benchmarks include **Benchling**, **AlphaFold Server**, **Insilico Medicine**, **Schrödinger**, **Recursion**, **Owkin**, **Atomwise**, **Generate Biomedicines**, **Certara**, and **DNAnexus**.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI for Life Sciences**. These tools enable researchers to predict protein structures, design novel molecules, analyze multi-omic data, and augment scientific workflows with validated AI agent skills—accelerating discovery from years to months.
+---
 
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Benchling, AlphaFold Server, Insilico Medicine, Schrödinger, Recursion, Owkin, Atomwise, Generate Biomedicines, Certara, and DNAnexus (the category leaders).
+## 📊 Sector Overview & Market Dynamics
 
+The global **AI in Life Sciences market** is estimated at **~$3.2B to $4.6B in 2026** and is projected to expand at an aggressive **CAGR of 20% to 26%** toward the mid-2030s, propelled by generative biology breakthroughs and clinical milestone validations. The sector exhibits a **hybrid, moderately concentrated market structure**: while the computational infrastructure and core cloud data hosting layer are concentrated among hyperscalers and established biopharma titans, the application and model tier remains **highly fragmented**, populated by specialized TechBio startups and academic labs competing across generative protein design, virtual screening, spatial omics, and agentic research workflows. 🌐💡
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, protein folding, and open scientific AI—ideal for computational biologists, drug discovery teams, and developers seeking transparent, vendor-independent life sciences AI.
+## ☁️ SaaS / Hosted Platforms
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-| Platform | Company Scale (Valuation / Market Cap / Revenue) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Description |
+| Platform | 🏢 Company Scale (Valuation / Market Cap / Revenue) | 🏷️ Pricing (Starting Tier) | 🎁 Free Tier / Free Trial Limits | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[AlphaFold Server](https://alphafoldserver.com/)** | **~$4.0T+** Market Cap (Alphabet) / **~$1.7B** turnover (Google DeepMind) | **$0** (Non-commercial research) / Enterprise partnership via Isomorphic Labs (~$0.50/prediction at scale) | **Free forever**: 30 structure prediction jobs per day (quota resets daily at midnight BST) for non-commercial academic research | DeepMind's hosted protein & biomolecular complex structure prediction service with AlphaFold 3 capabilities (proteins, DNA, RNA, ligands, ions). |
 | **[Benchling](https://www.benchling.com/)** | **~$6.1B** Valuation (Series F) / **~$210M** ARR | Commercial plans start at **~$15,000 – $20,000/year** (bundled 5-seat minimum base package) | **Free forever (Academic Tier)**: Unlimited ELN entries and Molecular Biology tools (CRISPR design, alignments); excludes enterprise LIMS/Registry modules and API access | The industry-standard R&D cloud platform for life sciences, featuring electronic lab notebook (ELN), LIMS, molecular biology tools, and CRISPR workflows. |
@@ -55,170 +60,83 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[DNAnexus](https://www.dnanexus.com/)** | **~$600M** Valuation (Series I) / Multi-million enterprise run-rate | Custom AWS Marketplace private offers and enterprise agreements; research platform access starts at **~$10,000 – $25,000/year** + cloud compute usage | **Trial credit package**: £40 / $50 in compute/storage credits on select partner programs (e.g., UK Biobank RAP) valid for **90 days** from registration | Scalable bioinformatics cloud platform for population-scale genomic data management, multi-omics pipelines, and clinical research data analysis. |
 | **[Atomwise](https://www.atomwise.com/)** | Undisclosed (~$219M total venture funding) / **~$10M – $16M** Revenue | Co-development licensing and upfront program-based screening access fees; academic collaborations funded via AIMS grants | **AIMS Academic Grant Program**: Free virtual screening of up to 10M molecules provided to selected academic labs per grant cycle | AI-driven virtual screening and structure-based hit discovery engine (AtomNet) predicting binding affinity across billions of small-molecule compounds. |
 
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[K-Dense-AI Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)**  
-
-  **The most comprehensive open-source collection of validated skills and scientific databases for biology/chemistry AI** (open-source). **The reference implementation for agent-augmented scientific workflows.** Provides **validated, reproducible skills** that AI agents can execute—connecting to authoritative scientific databases including **UniProt, PDB, ChEMBL, PubChem, Ensembl, NCBI, and others** . **Skills cover**: sequence retrieval and analysis, protein structure lookup, chemical property prediction, pathway enrichment, literature search, and data visualization . **Designed for agent frameworks** including Claude Code, Cursor, and MCP-compatible clients . **The bridge between LLM agents and real scientific databases.**
-
-
-
-- **[AlphaFold](https://github.com/google-deepmind/alphafold)**  
-
-  **The open-source implementation of AlphaFold 2** (Apache-2.0) from DeepMind. **The most influential AI breakthrough in structural biology.** **Predicts protein structures with atomic accuracy**—a problem that stood for 50 years. **Open-source code, model weights, and inference pipeline** available for non-commercial use. **18,000+ GitHub stars.** **Note**: Commercial use requires separate licensing from DeepMind .
-
-
-
-- **[OpenFold](https://github.com/aqlaboratory/openfold)**  
-
-  **Trainable, memory-efficient, and GPU/CPU optimized PyTorch reproduction of AlphaFold 2** (Apache-2.0) . **The most faithful open-source AlphaFold reproduction**—produced under the Open Molecular Software Foundation (OMSF) with support from AWS, NVIDIA, and other industry partners . **Supports training** (not just inference), **memory-efficient attention**, and **multi-GPU scaling** . **The foundation for community protein folding research**—serves as testbed for new architectures and training methods .
-
-
-
-- **[Boltz-2](https://github.com/jwohlwend/boltz)**  
-
-  **Open-source biomolecular structure prediction model** with **AlphaFold 3-class performance** (MIT) . **Faster than AlphaFold 3** with comparable accuracy on protein-ligand, protein-protein, and protein-nucleic acid complexes . **The most accessible open-source AlphaFold 3 alternative**—runs on consumer GPUs with reasonable memory requirements . **Growing adoption in pharma and academic labs** as a reproducible, permissively licensed alternative to proprietary services.
-
-
-
-- **[Chai-1](https://github.com/chaidiscovery/chai-lab)**  
-
-  **Open-source foundation model for molecular structure prediction** (Apache-2.0) from Chai Discovery. **AlphaFold 3-level accuracy** on protein-ligand, protein-protein, and antibody-antigen complexes . **The most competitive open-source AlphaFold 3 alternative**—achieved **77% success rate on antibody-antigen prediction** (vs 65% for AlphaFold 3) in independent benchmarks . **Available for both research and commercial use** under Apache 2.0—a critical differentiator from AlphaFold .
-
-
-
-- **[ESM (Evolutionary Scale Modeling)](https://github.com/facebookresearch/esm)**  
-
-  **Open-source protein language models** (MIT) from Meta AI. **The most widely used protein language models**—trained on millions of protein sequences to learn evolutionary patterns . **ESMFold** predicts structures directly from sequences without MSAs—**10x faster than AlphaFold 2** with comparable accuracy for many targets . **ESM-2 and ESM-3** models available with varying parameter counts (8M to 15B) . **The foundation for protein engineering and design.**
-
-
-
-- **[RFdiffusion](https://github.com/RosettaCommons/RFdiffusion)**  
-
-  **Open-source diffusion model for protein design** (BSD-3-Clause) from the Baker Lab (David Baker, 2024 Nobel Prize in Chemistry) . **The most influential open-source protein design tool**—generates novel protein structures with specified functions including binders, enzymes, and symmetric assemblies . **RFdiffusion + ProteinMPNN workflow** has produced experimentally validated designs for **antibody binders, enzyme scaffolds, and biosensors** . **The foundation for computational protein design.**
-
-
-
-- **[ProteinMPNN](https://github.com/dauparas/ProteinMPNN)**  
-
-  **Open-source deep learning model for protein sequence design** (MIT) from the Baker Lab. **The standard tool for designing sequences that fold into target structures** . **Combined with RFdiffusion** for the complete protein design pipeline. **Used in countless published protein engineering studies.**
-
-
-
-- **[RDKit](https://github.com/rdkit/rdkit)**  
-
-  **The most widely used open-source cheminformatics toolkit** (BSD-3-Clause) . **The foundation for virtually all open-source drug discovery pipelines.** Features molecular I/O, substructure searching, descriptor calculation, fingerprint generation, and 2D/3D coordinate generation . **Used by virtually every pharma company** for data processing and analysis .
-
-
-
-- **[DeepChem](https://github.com/deepchem/deepchem)**  
-
-  **Open-source Python framework for deep learning on molecular and materials data** (MIT) . **The most comprehensive open-source framework for molecular ML** —featurizer-pipeline abstraction for converting raw molecular data into numerical representations . **Includes molecular docking workflows**, graph neural networks, and pretrained models . **The standard library for ML-based drug discovery.**
-
-
-
-- **[OpenMM](https://github.com/openmm/openmm)**  
-
-  **Open-source molecular dynamics simulation toolkit** (MIT) . **The most widely used open-source MD engine**—high-performance simulation of biomolecules on GPUs and CPUs . **The foundation for protein dynamics, drug binding studies, and free energy calculations** . **Used extensively in academic and industrial research.**
-
-
-
-- **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)**  
-
-  **Open-source molecular docking engine** (Apache-2.0). **The most widely used open-source docking tool**—predicts binding poses and affinity for small molecules to proteins . **Used in virtual screening campaigns** for hit identification .
-
-
-
-- **[GNINA](https://github.com/gnina/gnina)**  
-
-  **Open-source molecular docking software with deep learning CNN scoring functions** (license varies) . **Version 1.3** updated from Caffe to **PyTorch** for easier custom model integration . **Knowledge-distilled CNN scoring functions** for faster high-throughput screening. **Covalent docking** functionality added. **The most advanced open-source docking framework with deep learning scoring.**
-
-
-
-- **[RDKit-based Deep Learning](https://github.com/rdkit/rdkit)**  
-
-  See RDKit above.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Open Targets Platform](https://github.com/opentargets/platform)** — Open-source target identification platform (Apache-2.0) integrating genetics, genomics, and chemical data . **The most comprehensive open-source drug target discovery resource.**
-
-- **[Open Targets Genetics](https://github.com/opentargets/genetics)** — Open-source genetics portal for target identification (Apache-2.0) .
-
-- **[ChEMBL](https://github.com/chembl)** — Open-source bioactivity database (CC BY-SA 3.0) . **The standard open data resource for drug discovery.**
-
-- **[OpenMM-PLUMED](https://github.com/plumed/plumed2)** — Open-source enhanced sampling library (LGPL) for molecular dynamics free energy calculations .
-
-- **[GROMACS](https://github.com/gromacs/gromacs)** — Open-source molecular dynamics package (LGPL) . **The most widely used MD engine in academia.**
-
-- **[BioPython](https://github.com/biopython/biopython)** — Open-source Python tools for biological computation (Biopython License) . **The foundational library for bioinformatics.**
-
-- **[Scanpy](https://github.com/scverse/scanpy)** — Open-source single-cell analysis toolkit (BSD-3-Clause) . **The standard for single-cell RNA-seq analysis.**
-
-- **[Squidpy](https://github.com/scverse/squidpy)** — Open-source spatial single-cell analysis toolkit (BSD-3-Clause) .
-
-- **[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)** — Open-source GNN library (MIT) widely used for molecular graph learning .
-
-- **[DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)** — Open-source toolkit for deep learning on graphs in life sciences (Apache-2.0) .
-
-- Community **n8n** workflows for scientific data pipeline automation and research alert routing.
-
-
-
-**Frameworks for building custom systems**: Combine **K-Dense-AI Scientific Agent Skills** for validated scientific database access with **OpenFold** or **Boltz-2** for structure prediction, **RFdiffusion + ProteinMPNN** for protein design, **RDKit + DeepChem** for molecular ML, and **OpenMM** for molecular dynamics—creating a comprehensive AI for life sciences stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AI for life sciences tools are **research aids, not clinical decision systems**. All predictions require experimental validation before clinical or therapeutic use. **Regulatory compliance (FDA, EMA) remains mandatory** for any clinical application.
-
-- **Model licensing varies significantly.** AlphaFold 2 is Apache-2.0 but **commercial use requires separate licensing from DeepMind** . Chai-1 is **fully Apache 2.0 including commercial use** —a critical differentiator . Boltz-2 is MIT licensed . **Verify licensing before commercial deployment.**
-
-- **Open-source structure prediction has reached parity.** Chai-1 and Boltz-2 achieve AlphaFold 3-class accuracy on protein-ligand and antibody-antigen complexes . Chai-1 exceeded AlphaFold 3 on antibody-antigen prediction (77% vs 65%) in independent benchmarks . **These are genuine alternatives to proprietary services.**
-
-- **Protein design is an open-source strength.** RFdiffusion (Baker Lab, 2024 Nobel Prize) and ProteinMPNN are the foundation for computational protein design . **The combination has produced experimentally validated binders, enzymes, and biosensors** —work that previously required years of directed evolution.
-
-- **Scientific agent skills bridge LLMs to real databases.** K-Dense-AI Scientific Agent Skills provides validated, reproducible access to UniProt, PDB, ChEMBL, PubChem, and other authoritative sources . **This is the emerging pattern for AI-augmented scientific workflows.**
-
-- Self-hosted open-source solutions require proper GPU provisioning, bioinformatics expertise, and ongoing maintenance. **Computational predictions are hypotheses—wet-lab validation remains the rate-limiting step in drug discovery.**
-
-
+---
+
+## 🔓 Open-Source GitHub Projects
+
+> Repositories are ranked and sorted in descending order by **GitHub Star Count** ⭐.
+
+| Rank | Repository & Star Badge | License | Category | Highlights & Capabilities |
+| :---: | :--- | :---: | :---: | :--- |
+| **1** | **[K-Dense-AI Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)** [![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social&color=white)](https://github.com/K-Dense-AI/scientific-agent-skills/stargazers) | Open-Source | Scientific Agent Skills | **The reference implementation for autonomous AI scientific workflows.** Comprehensive repository of validated skills connecting LLMs and agent frameworks (Cursor, Claude Code, MCP) to authoritative scientific databases: UniProt, PDB, ChEMBL, PubChem, Ensembl, and NCBI. |
+| **2** | **[PyTorch Geometric (PyG)](https://github.com/pyg-team/pytorch_geometric)** [![Stars](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social&color=white)](https://github.com/pyg-team/pytorch_geometric/stargazers) | MIT | Graph Neural Networks | The leading deep learning library for graph neural networks (GNNs). Foundational framework for molecular graphs, protein-protein interaction networks, and 3D molecular conformation learning. |
+| **3** | **[AlphaFold](https://github.com/google-deepmind/alphafold)** [![Stars](https://img.shields.io/github/stars/google-deepmind/alphafold?style=social&color=white)](https://github.com/google-deepmind/alphafold/stargazers) | Apache-2.0 | Structure Prediction | DeepMind's historic breakthrough predicting 3D protein structures with atomic accuracy. Landmark model in computational biology providing weights and inference pipelines. *(Non-commercial license)*. |
+| **4** | **[DeepChem](https://github.com/deepchem/deepchem)** [![Stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers) | MIT | Molecular ML | The standard Python framework for deep learning in drug discovery, materials science, and biology. Features featurizer pipelines, GNNs, molecular docking workflows, and toxicity screening. |
+| **5** | **[BioPython](https://github.com/biopython/biopython)** [![Stars](https://img.shields.io/github/stars/biopython/biopython?style=social&color=white)](https://github.com/biopython/biopython/stargazers) | Biopython License | Bioinformatics Tooling | Foundational open-source toolkit for computational molecular biology. Essential utilities for sequence parsing, alignment algorithms, BLAST interfacing, and 3D macromolecular structure handling. |
+| **6** | **[Boltz-2](https://github.com/jwohlwend/boltz)** [![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social&color=white)](https://github.com/jwohlwend/boltz/stargazers) | MIT | Structure Prediction | Biomolecular complex structure prediction model with **AlphaFold 3-class accuracy**. Predicts protein-ligand, protein-protein, and protein-nucleic acid complexes faster and runs locally on consumer GPUs. |
+| **7** | **[ESM (Evolutionary Scale Modeling)](https://github.com/facebookresearch/esm)** [![Stars](https://img.shields.io/github/stars/facebookresearch/esm?style=social&color=white)](https://github.com/facebookresearch/esm/stargazers) | MIT | Protein Language Models | Meta AI's transformer models trained across millions of protein sequences. Includes **ESMFold** for ultrafast end-to-end structure generation without multiple sequence alignments (MSAs). |
+| **8** | **[Google DeepVariant](https://github.com/google/deepvariant)** [![Stars](https://img.shields.io/github/stars/google/deepvariant?style=social&color=white)](https://github.com/google/deepvariant/stargazers) | BSD-3-Clause | Genomic AI | Deep learning-based variant caller by Google that transforms high-throughput DNA sequencing data into images to detect single-nucleotide variants and indels with state-of-the-art precision. |
+| **9** | **[RDKit](https://github.com/rdkit/rdkit)** [![Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social&color=white)](https://github.com/rdkit/rdkit/stargazers) | BSD-3-Clause | Cheminformatics | The undisputed standard open-source cheminformatics and machine learning library. Handles 2D/3D molecular representations, substructure search, fingerprinting, and chemical descriptor calculation. |
+| **10** | **[OpenFold](https://github.com/aqlaboratory/openfold)** [![Stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social&color=white)](https://github.com/aqlaboratory/openfold/stargazers) | Apache-2.0 | Structure Prediction | High-performance PyTorch reproduction of AlphaFold 2 supporting end-to-end training and fine-tuning with memory-efficient attention and multi-GPU scalability under the OMSF consortium. |
+| **11** | **[RFdiffusion](https://github.com/RosettaCommons/RFdiffusion)** [![Stars](https://img.shields.io/github/stars/RosettaCommons/RFdiffusion?style=social&color=white)](https://github.com/RosettaCommons/RFdiffusion/stargazers) | BSD-3-Clause | De Novo Protein Design | Breakthrough generative diffusion model for de novo protein design from the Baker Lab (David Baker, 2024 Nobel Prize). Designs targeted binders, complex scaffolds, and symmetric assemblies. |
+| **12** | **[Scanpy](https://github.com/scverse/scanpy)** [![Stars](https://img.shields.io/github/stars/scverse/scanpy?style=social&color=white)](https://github.com/scverse/scanpy/stargazers) | BSD-3-Clause | Single-Cell Genomics | Scalable toolkit for analyzing single-cell gene expression data. Integrates preprocessing, dimensionality reduction (t-SNE/UMAP), clustering, trajectory inference, and spatial transcriptomics. |
+| **13** | **[Protenix](https://github.com/bytedance/Protenix)** [![Stars](https://img.shields.io/github/stars/bytedance/Protenix?style=social&color=white)](https://github.com/bytedance/Protenix/stargazers) | Apache-2.0 | Structure Prediction | ByteDance's open-source reproduction and evolution of AlphaFold 3. Supports all-atom biomolecular modeling of proteins, RNA, DNA, ligands, and covalent modifications. |
+| **14** | **[Open Graph Benchmark (OGB)](https://github.com/snap-stanford/ogb)** [![Stars](https://img.shields.io/github/stars/snap-stanford/ogb?style=social&color=white)](https://github.com/snap-stanford/ogb/stargazers) | MIT | Benchmark Datasets | Benchmark datasets, data loaders, and evaluators for graph machine learning, including major large-scale molecular property prediction datasets (OGB-LSC, PCQM4Mv2). |
+| **15** | **[Chai-1](https://github.com/chaidiscovery/chai-lab)** [![Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?style=social&color=white)](https://github.com/chaidiscovery/chai-lab/stargazers) | Apache-2.0 | Multi-Molecular Modeling | Chai Discovery's multi-modal foundation model for molecular structure prediction. Matches AlphaFold 3 accuracy while offering **full Apache-2.0 commercial rights** and high antibody-antigen success. |
+| **16** | **[OpenMM](https://github.com/openmm/openmm)** [![Stars](https://img.shields.io/github/stars/openmm/openmm?style=social&color=white)](https://github.com/openmm/openmm/stargazers) | MIT / LGPL | Molecular Dynamics | High-performance, GPU-accelerated molecular dynamics simulation toolkit. Widely used for protein conformational dynamics, thermodynamic integration, and drug binding free energy calculation. |
+| **17** | **[ProteinMPNN](https://github.com/dauparas/ProteinMPNN)** [![Stars](https://img.shields.io/github/stars/dauparas/ProteinMPNN?style=social&color=white)](https://github.com/dauparas/ProteinMPNN/stargazers) | MIT | Sequence Design | Deep learning neural network for inverse protein folding (designing amino acid sequences that fold into specific target 3D backbones). Frequently paired with RFdiffusion. |
+| **18** | **[scvi-tools](https://github.com/scverse/scvi-tools)** [![Stars](https://img.shields.io/github/stars/scverse/scvi-tools?style=social&color=white)](https://github.com/scverse/scvi-tools/stargazers) | BSD-3-Clause | Probabilistic Multi-Omics | Deep generative modeling library for single-cell omics data based on PyTorch and AnnData. Powers batch correction, differential expression, and CITE-seq multi-modal integration. |
+| **19** | **[DiffDock](https://github.com/gcorso/DiffDock)** [![Stars](https://img.shields.io/github/stars/gcorso/DiffDock?style=social&color=white)](https://github.com/gcorso/DiffDock/stargazers) | MIT | Molecular Docking | State-of-the-art diffusion generative model over the degrees of freedom of ligand pose and translation for blind, targeted molecular docking. |
+| **20** | **[AutoDock Vina](https://github.com/ccsb-scripps/AutoDock-Vina)** [![Stars](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=social&color=white)](https://github.com/ccsb-scripps/AutoDock-Vina/stargazers) | Apache-2.0 | Molecular Docking | One of the most popular docking tools in structural biology for virtual screening and predicting ligand-receptor binding affinity. |
+| **21** | **[GNINA](https://github.com/gnina/gnina)** [![Stars](https://img.shields.io/github/stars/gnina/gnina?style=social&color=white)](https://github.com/gnina/gnina/stargazers) | GPL-2.0 | Molecular Docking | Deep learning-enhanced molecular docking engine using 3D convolutional neural networks (CNNs) for scoring and receptor-ligand pose optimization. |
+| **22** | **[GROMACS](https://github.com/gromacs/gromacs)** [![Stars](https://img.shields.io/github/stars/gromacs/gromacs?style=social&color=white)](https://github.com/gromacs/gromacs/stargazers) | LGPL-2.1 | Molecular Dynamics | Extremely versatile and fast package for molecular dynamics simulations, primarily designed for biomolecular systems such as proteins, lipids, and nucleic acids. |
+| **23** | **[Nucleotide Transformer](https://github.com/instadeepai/nucleotide-transformer)** [![Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer?style=social&color=white)](https://github.com/instadeepai/nucleotide-transformer/stargazers) | Apache-2.0 | Genomic Foundation Models | Pretrained foundation models for genomics developed by InstaDeep and TUM. Predicts regulatory features, splice sites, promoters, and genetic variant impacts across diverse genomes. |
+| **24** | **[DGL-LifeSci](https://github.com/awslabs/dgl-lifesci)** [![Stars](https://img.shields.io/github/stars/awslabs/dgl-lifesci?style=social&color=white)](https://github.com/awslabs/dgl-lifesci/stargazers) | Apache-2.0 | Graph AI | Deep Graph Library (DGL) extension toolkit implementing graph models for molecular property prediction, reaction prediction, and RNA/protein structures. |
+| **25** | **[Squidpy](https://github.com/scverse/squidpy)** [![Stars](https://img.shields.io/github/stars/scverse/squidpy?style=social&color=white)](https://github.com/scverse/squidpy/stargazers) | BSD-3-Clause | Spatial Omics | Spatial single-cell analysis toolkit built on AnnData and Scanpy. Explores cell-cell communication, neighborhood enrichment, and tissue architecture. |
+| **26** | **[PLUMED](https://github.com/plumed/plumed2)** [![Stars](https://img.shields.io/github/stars/plumed/plumed2?style=social&color=white)](https://github.com/plumed/plumed2/stargazers) | LGPL-3.0 | Enhanced Sampling | Community-developed library for enhanced sampling, free-energy calculation, and analyzing molecular dynamics trajectories in OpenMM and GROMACS. |
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions from researchers, software engineers, and bioinformaticians are warmly encouraged! 🎉
 
-**Made for computational biologists, drug discovery teams, and developers building transparent life sciences AI solutions.**  
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
+3. ✏️ **Add or update** entries in [README.md](README.md) following the existing tabular schema.
+4. 📝 Ensure you include the platform name, official URL, pricing tier / free limits (for SaaS), or repo link and license (for open-source).
+5. 🚀 **Submit a Pull Request** with a brief summary of the addition!
 
-Let's make AI for Life Sciences more open, data-driven, and scientifically validated.
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository valuable for your research, lab projects, or biotech development, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it with your research group and colleagues.
+- ☕ **Sponsor / Buy a Coffee**: Support ongoing curation and open-source scientific tools via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+Thank you so much to all the contributors and sponsors who keep open science thriving! 🧬✨
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-For-Life-Sciences&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-For-Life-Sciences&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- AI for life sciences tools are **research aids, not clinical decision systems**. All predictions require rigorous experimental and wet-lab validation before clinical or therapeutic use. **Regulatory compliance (FDA, EMA) remains mandatory** for any diagnostic or therapeutic development.
+- **Model licensing varies significantly:** AlphaFold 2 is Apache-2.0 but commercial use of weights requires licensing from DeepMind. Chai-1 is fully Apache-2.0 for commercial and non-commercial use. Boltz-2 is MIT licensed. Always verify licensing before commercial deployment.
+- Computational predictions represent testable hypotheses—wet-lab validation and in vivo experiments remain the ultimate ground truth in drug discovery and therapeutic biology.
+
+---
+
+<p align="center">
+  <b>Built for computational biologists, drug discovery teams, and developers engineering the future of life sciences AI.</b><br>
+  Let's make AI for Life Sciences more open, reproducible, and scientifically validated! 🔬🧬🚀
+</p>
