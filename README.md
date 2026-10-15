@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[AlphaFold Server](https://alphafoldserver.com/)**  
-
-  **DeepMind's hosted protein structure prediction service.** Free for non-commercial use with **AlphaFold 3** capabilities—predicting structures of proteins, DNA, RNA, ions, and small molecules in complex with each other. **The most accurate structure prediction available**—no setup, no GPU required.
-
-
-
-- **[Benchling](https://www.benchling.com/)**  
-
-  **The R&D cloud platform for biology** with electronic lab notebook (ELN), LIMS, and molecular biology tools. Features sequence editing, CRISPR design, structured data capture, and collaboration. **The industry standard for biotech R&D data management.**
-
-
-
-- **[Schrödinger](https://www.schrodinger.com/)**  
-
-  **Industry-leading computational platform for molecular modeling and drug discovery.** Features physics-based simulation, machine learning, and predictive analytics for lead identification and optimization. **The most widely used commercial platform in pharma R&D.**
-
-
-
-- **[Insilico Medicine](https://insilico.com/)**  
-
-  **AI-driven drug discovery platform** with generative chemistry (Chemistry42), target identification (PandaOmics), and clinical trial prediction. **Lead candidate discovered and designed using AI reached Phase II trials.**
-
-
-
-- **[Recursion Pharmaceuticals](https://www.recursion.com/)**  
-
-  **Clinical-stage biotech combining AI with high-throughput biology.** Features automated phenomics, deep learning for cellular image analysis, and digital chemistry for compound design.
-
-
-
-- **[Owkin](https://www.owkin.com/)**  
-
-  **AI platform for biomedical research** with federated learning capabilities. Features multi-institutional data analysis and predictive biomarker discovery without sharing patient data.
-
-
-
-- **[Atomwise](https://www.atomwise.com/)**  
-
-  **AI-powered virtual screening platform.** Features deep learning for structure-based drug discovery and hit identification.
-
-
-
-- **[Generate Biomedicines](https://generatebiomedicines.com/)**  
-
-  **Generative biology platform for protein therapeutics.** Features generative AI for designing novel proteins with desired functions.
-
-
-
-- **[Certara](https://www.certara.com/)**  
-
-  **Model-informed drug development platform.** Features pharmacokinetic/pharmacodynamic modeling, simulation, and regulatory writing.
-
-
-
-- **[DNAnexus](https://www.dnanexus.com/)**  
-
-  **Cloud platform for genomic data analysis and management.** Features scalable bioinformatics pipelines, data security, and collaboration.
+| Platform | Company Scale (Valuation / Market Cap / Revenue) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[AlphaFold Server](https://alphafoldserver.com/)** | **~$4.0T+** Market Cap (Alphabet) / **~$1.7B** turnover (Google DeepMind) | **$0** (Non-commercial research) / Enterprise partnership via Isomorphic Labs (~$0.50/prediction at scale) | **Free forever**: 30 structure prediction jobs per day (quota resets daily at midnight BST) for non-commercial academic research | DeepMind's hosted protein & biomolecular complex structure prediction service with AlphaFold 3 capabilities (proteins, DNA, RNA, ligands, ions). |
+| **[Benchling](https://www.benchling.com/)** | **~$6.1B** Valuation (Series F) / **~$210M** ARR | Commercial plans start at **~$15,000 – $20,000/year** (bundled 5-seat minimum base package) | **Free forever (Academic Tier)**: Unlimited ELN entries and Molecular Biology tools (CRISPR design, alignments); excludes enterprise LIMS/Registry modules and API access | The industry-standard R&D cloud platform for life sciences, featuring electronic lab notebook (ELN), LIMS, molecular biology tools, and CRISPR workflows. |
+| **[Insilico Medicine](https://insilico.com/)** | **~$1.8B – $2.7B** Market Cap / **~$106.3M** H1 Revenue | Academic/starter access via grant programs; commercial software licenses start at **~$25,000 – $50,000/year** per enterprise module | **30-day trial / guided demo** available upon institutional/commercial qualification; free grant access provided for selected academic research labs | End-to-end generative AI drug discovery platform featuring PandaOmics (target identification) and Chemistry42 (generative small-molecule design). |
+| **[Schrödinger](https://www.schrodinger.com/)** | **~$1.9B – $2.0B** Market Cap (NASDAQ: SDGR) / **~$256M** Annual Revenue | Academic research licenses start at **~$7,500 – $10,000/year**; PyMOL subscriptions start at **$500/year** (Academic) or **$2,100/year** (Small Commercial) | **PyMOL Free Educational Tier**: Free for full-time students and teachers for classroom instruction; **14-day free trial** available for Maestro/PyMOL evaluation | Computational platform for molecular modeling, physics-based simulations (Glide, Desmond, FEP+), and machine learning-guided lead optimization. |
+| **[Recursion Pharmaceuticals](https://www.recursion.com/)** | **~$2.0B** Market Cap (NASDAQ: RXRX) / **~$55M** Revenue | Enterprise partnership model; co-development collaboration agreements typically starting with multi-million dollar upfront programs | **Guided demo only**: Access requires institutional partnership qualification and bespoke data agreements | Full-stack TechBio platform combining automated high-throughput biology, phenomics, and deep learning for drug discovery. |
+| **[Generate Biomedicines](https://generatebiomedicines.com/)** | **~$1.8B – $2.0B** Valuation / **~$30M** Revenue | Strategic enterprise biopharma collaborations with target programs starting at multi-million dollar upfront research commitments | **Guided demo only**: Platform access is partner-gated for specific therapeutic research collaborations | Generative biology platform (The Generate Platform) utilizing generative AI algorithms to design novel protein therapeutics and antibodies. |
+| **[Certara](https://www.certara.com/)** | **~$1.4B** Market Cap (NASDAQ: CERT) / **~$408M** TTM Revenue | Phoenix software desktop licenses start at **~$5,000 – $16,000/year** (average contract ~$16K, max ~$41K via procurement data) | **Free Academic Teaching License**: 100% free Phoenix desktop licenses for accredited degree-granting courses; 30-day evaluation trial for commercial prospects | Industry standard for model-informed drug development (MIDD), PK/PD modeling and biosimulation (Phoenix WinNonlin), and regulatory writing. |
+| **[Owkin](https://www.owkin.com/)** | **~$1.0B** Valuation (Unicorn) / **~$30M – $50M** Revenue | Owkin K Pro co-pilot available via AWS Marketplace via private offer starting at enterprise tiers (~$50,000/year) | **14-day guided proof-of-concept / sandbox evaluation** for qualified biopharma research teams | AI biotech platform featuring federated learning and biomedical co-pilots (K Pro) for multi-cohort biomarker discovery without sharing raw patient data. |
+| **[DNAnexus](https://www.dnanexus.com/)** | **~$600M** Valuation (Series I) / Multi-million enterprise run-rate | Custom AWS Marketplace private offers and enterprise agreements; research platform access starts at **~$10,000 – $25,000/year** + cloud compute usage | **Trial credit package**: £40 / $50 in compute/storage credits on select partner programs (e.g., UK Biobank RAP) valid for **90 days** from registration | Scalable bioinformatics cloud platform for population-scale genomic data management, multi-omics pipelines, and clinical research data analysis. |
+| **[Atomwise](https://www.atomwise.com/)** | Undisclosed (~$219M total venture funding) / **~$10M – $16M** Revenue | Co-development licensing and upfront program-based screening access fees; academic collaborations funded via AIMS grants | **AIMS Academic Grant Program**: Free virtual screening of up to 10M molecules provided to selected academic labs per grant cycle | AI-driven virtual screening and structure-based hit discovery engine (AtomNet) predicting binding affinity across billions of small-molecule compounds. |
 
 
 
