@@ -64,9 +64,9 @@ The global **AI in Life Sciences market** is estimated at **~$3.2B to $4.6B in 2
 
 ## 🔓 Open-Source GitHub Projects
 
-> Repositories are ranked and sorted in descending order by **GitHub Star Count** ⭐.
+> Repositories are ranked and sorted in descending order by **GitHub Stars_Count** ⭐.
 
-| Rank | Repository & Star Badge | License | Category | Highlights & Capabilities |
+| Rank | Repository & Stars_Badge | License | Category | Highlights & Capabilities |
 | :---: | :--- | :---: | :---: | :--- |
 | **1** | **[K-Dense-AI Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)** [![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social&color=white)](https://github.com/K-Dense-AI/scientific-agent-skills/stargazers) | Open-Source | Scientific Agent Skills | **The reference implementation for autonomous AI scientific workflows.** Comprehensive repository of validated skills connecting LLMs and agent frameworks (Cursor, Claude Code, MCP) to authoritative scientific databases: UniProt, PDB, ChEMBL, PubChem, Ensembl, and NCBI. |
 | **2** | **[PyTorch Geometric (PyG)](https://github.com/pyg-team/pytorch_geometric)** [![Stars](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social&color=white)](https://github.com/pyg-team/pytorch_geometric/stargazers) | MIT | Graph Neural Networks | The leading deep learning library for graph neural networks (GNNs). Foundational framework for molecular graphs, protein-protein interaction networks, and 3D molecular conformation learning. |
